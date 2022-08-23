@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AdrianaCosta255
-- 👀Sou estudante de Analise e Desenvolvimento de Sistemas
-- 🌱 I’m currently learning  HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...http://www.linkedin.com/in/adriana-costa-b7b993214
+<h1> Oi meu nome é Adriana Costa,</h1>
+</br>
+<h6>Atualmente estou no 4/semestre de Análise e Desenvolvimento de Sistemas</h6>
+<h6>E aprendendo HTML ,CSS e JavaScript pela Oracle Next One/ Alura</h6>
+
 
 <!---
 AdrianaCosta255/AdrianaCosta255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
